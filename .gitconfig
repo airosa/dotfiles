@@ -1,0 +1,5 @@
+[user]
+	name = airosa
+	email = airosa@users.noreply.github.com
+[push]
+	default = simple
